@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lxpanel-plugins\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-22 22:47+0200\n"
+"PO-Revision-Date: 2010-09-05 13:01+0700\n"
+"Last-Translator: Tran Duy Hung <nguyentieuhau@gmail.com>\n"
+"Language-Team: Vietnamese <nguyentieuhau@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0\n"
+"X-Poedit-Language: Vietnamese\n"
+"X-Poedit-Country: Viet Nam\n"
+
+#: ../src/batt.c:379
+#, c-format
+msgid "Battery: %d%% charged, %d:%02d until full"
+msgstr "Battery: %d%% đã nạp, %d:%02d cho đến lúc đầy"
+
+#: ../src/batt.c:388
+#, c-format
+msgid "Battery: %d%% charged, %s"
+msgstr "Pin: %d%% đã nạp, %s"
+
+#: ../src/batt.c:390
+msgid "charging finished"
+msgstr "nạp hoàn tất"
+
+#: ../src/batt.c:390
+msgid "charging"
+msgstr "đang nạp"
+
+#: ../src/batt.c:395
+#, c-format
+msgid "Battery: %d%% charged, %d:%02d left"
+msgstr "Pin: %d%% đã nạp, %d:%02d còn lại"
+
+#: ../src/batt.c:401
+#, c-format
+msgid "Battery: %d%% charged"
+msgstr "Pin: %d%% đã nạp"
+
+#: ../src/batt.c:449
+#, c-format
+msgid "No batteries found"
+msgstr "Không tìm thấy pin"
+
+#: ../src/batt.c:874
+msgid "Hide if there is no battery"
+msgstr "Ẩn đi nếu không có pin"
+
+#: ../src/batt.c:876
+msgid "Alarm command"
+msgstr "Lệnh báo"
+
+#: ../src/batt.c:877
+msgid "Alarm time (minutes left)"
+msgstr "Thời gian báo (phút còn lại)"
+
+#: ../src/batt.c:878
+msgid "Background color"
+msgstr "Màu nền"
+
+#: ../src/batt.c:879
+msgid "Charging color 1"
+msgstr "Màu khi nạp 1"
+
+#: ../src/batt.c:880
+msgid "Charging color 2"
+msgstr "Màu khi nạp 2"
+
+#: ../src/batt.c:881
+msgid "Discharging color 1"
+msgstr "Màu khi không nạp 1"
+
+#: ../src/batt.c:882
+msgid "Discharging color 2"
+msgstr "Màu khi không nạp 2"
+
+#: ../src/batt.c:883
+msgid "Border width"
+msgstr "Độ rộng của viền"
+
+#: ../src/batt.c:884
+msgid "Size"
+msgstr "Kích thước"
+
+#: ../src/batt.c:914
+msgid "Battery Monitor"
+msgstr "Bộ theo dõi Pin"
+
+#: ../src/batt.c:916
+msgid "Display battery status using ACPI"
+msgstr "Hiển thị trạng thái pin sử dụng ACPI"
+

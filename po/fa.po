@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-22 22:47+0200\n"
+"PO-Revision-Date: 2010-08-16 16:12+0330\n"
+"Last-Translator: Mostafa <info@mostafadaneshvar.com>\n"
+"Language-Team: Persian <trans-fa@lists.fedoraproject.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: Iran\n"
+
+#: ../src/batt.c:379
+#, c-format
+msgid "Battery: %d%% charged, %d:%02d until full"
+msgstr "باتری: %d%% شارج شده است، %d:%02d تا شارج کامل"
+
+#: ../src/batt.c:388
+#, c-format
+msgid "Battery: %d%% charged, %s"
+msgstr "باتری: %d%% شارج شد، %s"
+
+#: ../src/batt.c:390
+msgid "charging finished"
+msgstr "اتمام شارج شدن"
+
+#: ../src/batt.c:390
+msgid "charging"
+msgstr "درحال شارج"
+
+#: ../src/batt.c:395
+#, c-format
+msgid "Battery: %d%% charged, %d:%02d left"
+msgstr "باتری: %d%% شارج شد، %d:%02d باقی مانده است"
+
+#: ../src/batt.c:401
+#, c-format
+msgid "Battery: %d%% charged"
+msgstr "باتری: %d%% شارج شد"
+
+#: ../src/batt.c:449
+#, c-format
+msgid "No batteries found"
+msgstr "باتری یافت نشد"
+
+#: ../src/batt.c:874
+msgid "Hide if there is no battery"
+msgstr "پنهان کنید اگر هیچ باتری وجود ندارد"
+
+#: ../src/batt.c:876
+msgid "Alarm command"
+msgstr "دستور اخطار"
+
+#: ../src/batt.c:877
+msgid "Alarm time (minutes left)"
+msgstr "زمان اخطار (دقیقه مانده است)"
+
+#: ../src/batt.c:878
+msgid "Background color"
+msgstr "رنگ پس زمینه"
+
+#: ../src/batt.c:879
+msgid "Charging color 1"
+msgstr "رنگ شارج  ۱"
+
+#: ../src/batt.c:880
+msgid "Charging color 2"
+msgstr "رنگ شارج ۲"
+
+#: ../src/batt.c:881
+msgid "Discharging color 1"
+msgstr "رنگ خالی شدن شارج ۱"
+
+#: ../src/batt.c:882
+msgid "Discharging color 2"
+msgstr "رنگ خالی شدن شارج ۲"
+
+#: ../src/batt.c:883
+msgid "Border width"
+msgstr "محدوده ی پنها"
+
+#: ../src/batt.c:884
+msgid "Size"
+msgstr "اندازه"
+
+#: ../src/batt.c:914
+msgid "Battery Monitor"
+msgstr "کنترل باتری"
+
+#: ../src/batt.c:916
+msgid "Display battery status using ACPI"
+msgstr "نمایش وضعیت باتری با استفاده از ACPI"
+

@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gunleif Joensen <gunleif@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-22 22:47+0200\n"
+"PO-Revision-Date: 2010-09-13 11:58+0200\n"
+"Last-Translator: Gunleif Joensen <gunleif@gmail.com>\n"
+"Language-Team: Føroyabólkurin\n"
+"Language: fo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.6.1\n"
+
+#: ../src/batt.c:379
+#, c-format
+msgid "Battery: %d%% charged, %d:%02d until full"
+msgstr "Battarí: %d%% løtt, %d:%02d inntil fult er"
+
+#: ../src/batt.c:388
+#, c-format
+msgid "Battery: %d%% charged, %s"
+msgstr "battarí:%d%% løtt, %s"
+
+#: ../src/batt.c:390
+msgid "charging finished"
+msgstr "løðing liðug"
+
+#: ../src/batt.c:390
+msgid "charging"
+msgstr "løði"
+
+#: ../src/batt.c:395
+#, c-format
+msgid "Battery: %d%% charged, %d:%02d left"
+msgstr "Battarí: %d%% løtt, %d%02d er eftir"
+
+#: ../src/batt.c:401
+#, c-format
+msgid "Battery: %d%% charged"
+msgstr "Battarí: %d%% løtt"
+
+#: ../src/batt.c:449
+#, c-format
+msgid "No batteries found"
+msgstr "Eingi battarí eru funnin"
+
+#: ../src/batt.c:874
+msgid "Hide if there is no battery"
+msgstr "Fjal um eingi battarí eru"
+
+#: ../src/batt.c:876
+msgid "Alarm command"
+msgstr "Ávaringarstýriboð"
+
+#: ../src/batt.c:877
+msgid "Alarm time (minutes left)"
+msgstr "Ávaringartíð (minuttir eftir)"
+
+#: ../src/batt.c:878
+msgid "Background color"
+msgstr "Bakgrundslitur:"
+
+#: ../src/batt.c:879
+msgid "Charging color 1"
+msgstr "Løðingarlitur 1"
+
+#: ../src/batt.c:880
+msgid "Charging color 2"
+msgstr "Løðingarlitur 2"
+
+#: ../src/batt.c:881
+msgid "Discharging color 1"
+msgstr "Avløðingarlitur 1"
+
+#: ../src/batt.c:882
+msgid "Discharging color 2"
+msgstr "Avløðingarlitur 2"
+
+#: ../src/batt.c:883
+msgid "Border width"
+msgstr "Rammubreidd"
+
+#: ../src/batt.c:884
+msgid "Size"
+msgstr "Stødd"
+
+#: ../src/batt.c:914
+msgid "Battery Monitor"
+msgstr "Battarívøka"
+
+#: ../src/batt.c:916
+msgid "Display battery status using ACPI"
+msgstr "Sýn battarístand nýtandi ACPI"

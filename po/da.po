@@ -1,0 +1,97 @@
+# Danish translation lxpanel-batt libfm.
+# Copyright (C) 2010 lxpanel-batt & Joe Hansen.
+# This file is distributed under the same license as the lxpanel-batt package.
+# Joe Hansen (joedalton2@yahoo.dk), 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lxpanel-batt\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-22 22:47+0200\n"
+"PO-Revision-Date: 2010-02-22 09:27+0000\n"
+"Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/batt.c:379
+#, c-format
+msgid "Battery: %d%% charged, %d:%02d until full"
+msgstr "Batteri: %d%% ladt op, %d:%02d indtil fuldt opladt"
+
+#: ../src/batt.c:388
+#, c-format
+msgid "Battery: %d%% charged, %s"
+msgstr "Batteri: %d%% ladt op, %s"
+
+#: ../src/batt.c:390
+msgid "charging finished"
+msgstr "opladning færdig"
+
+#: ../src/batt.c:390
+msgid "charging"
+msgstr "oplader"
+
+#: ../src/batt.c:395
+#, c-format
+msgid "Battery: %d%% charged, %d:%02d left"
+msgstr "Batteri: %d%% ladt op, %d:%02d tilbage"
+
+#: ../src/batt.c:401
+#, c-format
+msgid "Battery: %d%% charged"
+msgstr "Batteri: %d%% ladt op"
+
+#: ../src/batt.c:449
+#, c-format
+msgid "No batteries found"
+msgstr "Ingen batterier fundet"
+
+#: ../src/batt.c:874
+msgid "Hide if there is no battery"
+msgstr "Skjul hvis det er ikke er et batteri"
+
+#: ../src/batt.c:876
+msgid "Alarm command"
+msgstr "Alarmkommando"
+
+#: ../src/batt.c:877
+msgid "Alarm time (minutes left)"
+msgstr "Alarmtid (minutter tilbage)"
+
+#: ../src/batt.c:878
+msgid "Background color"
+msgstr "Baggrundsfarve"
+
+#: ../src/batt.c:879
+msgid "Charging color 1"
+msgstr "Opladerfarve 1"
+
+#: ../src/batt.c:880
+msgid "Charging color 2"
+msgstr "Opladerfarve 2"
+
+#: ../src/batt.c:881
+msgid "Discharging color 1"
+msgstr "Afladerfarve 1"
+
+#: ../src/batt.c:882
+msgid "Discharging color 2"
+msgstr "Afladerfarve 2"
+
+#: ../src/batt.c:883
+msgid "Border width"
+msgstr "Kantbredde"
+
+#: ../src/batt.c:884
+msgid "Size"
+msgstr "Størrelse"
+
+#: ../src/batt.c:914
+msgid "Battery Monitor"
+msgstr "Batteriovervågning"
+
+#: ../src/batt.c:916
+msgid "Display battery status using ACPI"
+msgstr "Vis batteristatus med brug af ACPI"
