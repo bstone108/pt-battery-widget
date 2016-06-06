@@ -27,7 +27,11 @@ State: Charging
 Remaining time: Error
 
 arguments supported;
+
 all [asumed if no arguments provided] returns state time and capacity
+
 state returns charging state; Discharging or Charging
+
 time is estimated time remaining [seems to return error if fully charged] time is returned in minutes,  ### mins
+
 capacity is how charged it is in %. ##%
