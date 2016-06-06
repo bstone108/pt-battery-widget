@@ -11,6 +11,12 @@ things we know.
 the battery communicates over ic2 which in most distrobutions requires root. pi-top has a script for pulling battery info via commands
 so at most we just need this plugin to parse data from the script,  at best we could use ic2 to get info ourselves.
 
+to install pt-battery script this project will be pulling data from as well as hub and brightness controls into raspbian use the following commands to add official pi-top repository:
+wget http://apt.pi-top.com/add && chmod +x add && sudo ./add && rm add
+sudo apt-get update && sudo apt-get install pt-battery pt-hub-controller -y
+
+
+
 calling /usr/bin/pt-battery output when discharging
 State: Discharging
 Remaining time: 656 mins
@@ -22,6 +28,6 @@ Remaining time: Error
 
 arguments supported;
 all [asumed if no arguments provided] returns state time and capacity
-state returns charging state
-time is estimated time remaining [seems to return error if fully charged]
-capacity is how charged it is in %.
+state returns charging state; Discharging or Charging
+time is estimated time remaining [seems to return error if fully charged] time is returned in minutes,  ### mins
+capacity is how charged it is in %. ##%
